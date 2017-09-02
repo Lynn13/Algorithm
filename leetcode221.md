@@ -1,7 +1,7 @@
 ## Maximal Square
 - `A[i][j]`表示的就是以(i,j)为右下角的最大的正方形的边长
 - `A[i][j] = min(A[i-1][j-1], A[i-1][j], A[i][j-1]) + 1`
-- [image](http://note.youdao.com/favicon.ico)
+- ![image](https://github.com/Lynn13/Algorithm/blob/master/20150618225048265.png)
 
 ```
 class Solution {
