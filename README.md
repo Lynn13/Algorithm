@@ -1,8 +1,4 @@
 # Algorithm
+整理下自己刷题的想法，没啥想法的就贴个代码，万一忘了可以回来搜搜看;
 
-
-
-### 记录
-- [最短路径-邻接表-Dijkstra](https://github.com/wangkuiwu/datastructs_and_algorithm/blob/master/source/graph/dijkstra/udg/java/ListUDG.java)
-- [wangkuiwu博客](http://wangkuiwu.github.io/)
 
