@@ -4,6 +4,7 @@
 - 初始化`dp[i][0] = 0`
 - 如果到j为止，pftBuy是买了第i个股票后的最优的收益，那么完成i个交易的最优的收益是`pftBuy + prices[j]`，也即
 - `dp[i][j] = Math.max(dp[i][j-1], pftBuy + prices[j])`
+- 没明白，这个pftBuy难道不是把j买了吗，那怎么还能去下一步去卖掉？同一天不能进行这样的操作吧？
 
 ```
 class Solution {
